@@ -1,0 +1,15 @@
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.csproj.AssemblyReference.cache
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.GeneratedMSBuildEditorConfig.editorconfig
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.AssemblyInfoInputs.cache
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.AssemblyInfo.cs
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.csproj.CoreCompileInputs.cache
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\bin\Debug\net6.0\exo4bis.exe
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\bin\Debug\net6.0\exo4bis.deps.json
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\bin\Debug\net6.0\exo4bis.runtimeconfig.json
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\bin\Debug\net6.0\exo4bis.dll
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\bin\Debug\net6.0\exo4bis.pdb
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.dll
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\refint\exo4bis.dll
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.pdb
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\exo4bis.genruntimeconfig.cache
+d:\EFREI\M1\S8\cSharp\Blanck_Exam\Exo4bis\obj\Debug\net6.0\ref\exo4bis.dll
